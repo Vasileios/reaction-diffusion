@@ -36,6 +36,8 @@ $ brew install sdl
 #+END_SRC
 
 After you've installed those dependencies open terminal and =cd= to the folder named "reaction-diffusion" and
-type =cmake .=. After that type =make=.
+type =cmake .=.
 
-Then go and execute the programm.
+Then type =make=.
+
+You can execute the programm now.
