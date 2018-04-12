@@ -1,0 +1,1 @@
+g++   -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/reaction-diffusion.dir/src/main.cpp.o  -o reaction-diffusion libDisplayLib.a libBufferLib.a libAsmLib.a -L/usr/local/lib -lSDL2 -pthread -s 

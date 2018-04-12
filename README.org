@@ -1,0 +1,41 @@
+#+Title: Reaction diffusion G++
+
+This is a 2D reaction-diffusion simulation by Mirco "MacSlow" Müller
+<macslow@gmail.com>
+
+I rebuilt this on Emacs 25.3 (9.0) and g++ c++/4.2.1 Apple LLVM
+version 9.0.0 (clang-900.0.39.2) Target: x86_64-apple-darwin17.2.0
+
+First clone the below repo with HTTPS or SSH.
+
+- HTTPS
+https://github.com/MacSlow/reaction-diffusion.git
+
+- SSH
+git@github.com:MacSlow/reaction-diffusion.git
+
+- Requirements
+
+To run the programm you'll first need to install the below dependencies.
+
+ * cmake 2.8.12
+ * nasm 2.11.08
+ * C++-14 compiler (e.g. g++, clang++)
+ * SDL 2.0.5
+
+*cmake* is a software for managing the build process of software using a compiler-independent method.
+*SDL* Simple DirectMedia Layer is a software development library designed to provide a hardware abstraction layer for computer multimedia hardware components.
+*nasm* the Netwide Assembler is an assembler and disassembler for the Intel x86 architecture. 
+
+- Installation 
+
+#+BEGIN_SRC shell
+$ brew install cmake
+$ brew install nasm
+$ brew install sdl
+#+END_SRC
+
+After you've installed those dependencies open terminal and =cd= to the folder named "reaction-diffusion" and
+type =cmake .=. After that type =make=.
+
+Then go and execute the programm.

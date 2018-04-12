@@ -1,0 +1,10 @@
+/Users/vasilis/Documents/Projects/emacs_gpp/reaction-diffusion/CMakeFiles/edit_cache.dir
+/Users/vasilis/Documents/Projects/emacs_gpp/reaction-diffusion/CMakeFiles/tiny.dir
+/Users/vasilis/Documents/Projects/emacs_gpp/reaction-diffusion/CMakeFiles/report.dir
+/Users/vasilis/Documents/Projects/emacs_gpp/reaction-diffusion/CMakeFiles/perf.dir
+/Users/vasilis/Documents/Projects/emacs_gpp/reaction-diffusion/CMakeFiles/valgrind.dir
+/Users/vasilis/Documents/Projects/emacs_gpp/reaction-diffusion/CMakeFiles/BufferLib.dir
+/Users/vasilis/Documents/Projects/emacs_gpp/reaction-diffusion/CMakeFiles/reaction-diffusion.dir
+/Users/vasilis/Documents/Projects/emacs_gpp/reaction-diffusion/CMakeFiles/rebuild_cache.dir
+/Users/vasilis/Documents/Projects/emacs_gpp/reaction-diffusion/CMakeFiles/DisplayLib.dir
+/Users/vasilis/Documents/Projects/emacs_gpp/reaction-diffusion/CMakeFiles/AsmLib.dir
