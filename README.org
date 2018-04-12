@@ -5,6 +5,9 @@ This is a 2D reaction-diffusion simulation by Mirco "MacSlow" Müller
 
 I rebuilt this on Emacs 25.3 (9.0) and g++ c++/4.2.1 Apple LLVM
 version 9.0.0 (clang-900.0.39.2) Target: x86_64-apple-darwin17.2.0
+(High Sierra)
+
+To build reaction-diffusion from scratch follow the below instructions 
 
 First clone the below repo with HTTPS or SSH.
 
