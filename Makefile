@@ -47,10 +47,10 @@ RM = /usr/local/Cellar/cmake/3.10.2/bin/cmake -E remove -f
 # Escaping for special characters.
 EQUALS = =
 
-# The top-level source directory on which CMake was run.
+# The top-level source directory on which CMake was run. ** Replace with your directory.
 CMAKE_SOURCE_DIR = /Users/vasilis/Documents/Projects/emacs_gpp/reaction-diffusion
 
-# The top-level build directory on which CMake was run.
+# The top-level build directory on which CMake was run. ** Replace with your directory.
 CMAKE_BINARY_DIR = /Users/vasilis/Documents/Projects/emacs_gpp/reaction-diffusion
 
 #=============================================================================
@@ -78,7 +78,7 @@ rebuild_cache/fast: rebuild_cache
 
 .PHONY : rebuild_cache/fast
 
-# The main all target
+# The main all target. ** Replace with your directory.
 all: cmake_check_build_system
 	$(CMAKE_COMMAND) -E cmake_progress_start /Users/vasilis/Documents/Projects/emacs_gpp/reaction-diffusion/CMakeFiles /Users/vasilis/Documents/Projects/emacs_gpp/reaction-diffusion/CMakeFiles/progress.marks
 	$(MAKE) -f CMakeFiles/Makefile2 all
@@ -343,4 +343,3 @@ help:
 cmake_check_build_system:
 	$(CMAKE_COMMAND) -H$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 0
 .PHONY : cmake_check_build_system
-
