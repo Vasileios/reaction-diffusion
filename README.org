@@ -23,8 +23,13 @@ To run the programm you'll first need to install the below dependencies.
  * C++-14 compiler (e.g. g++, clang++)
  * SDL 2.0.5
 
-*cmake* is a software for managing the build process of software using a compiler-independent method.
-*SDL* Simple DirectMedia Layer is a software development library designed to provide a hardware abstraction layer for computer multimedia hardware components.
+*cmake* is a software for managing the build process of software using
+a compiler-independent method.
+
+*SDL* Simple DirectMedia Layer is a software development library
+designed to provide a hardware abstraction layer for computer
+multimedia hardware components.
+
 *nasm* the Netwide Assembler is an assembler and disassembler for the Intel x86 architecture. 
 
 - Installation 
