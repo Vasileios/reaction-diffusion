@@ -40,9 +40,9 @@ $ brew install nasm
 $ brew install sdl
 #+END_SRC
 
-After you've installed those dependencies open terminal and =cd= to the folder named "reaction-diffusion" and
-type
- =cmake .=
+After you've installed those dependencies open terminal and =cd= to
+the folder named "reaction-diffusion"
+and type  =cmake .=
 
 Then type =make=
 
